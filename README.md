@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **ML DevOps and Python for DevOps by Noah Gift**
 - 💬 Ask me about anything **Data Science/Data Analytics**
 - 📫 Reach me at **samuelsimweixuan@gmail.com**
-- 🚀 Fun hobby include learning about **Day-Trading from AL Brooks and Tom Hougaard**
+- 🚀 Fun hobby include learning about **Day-Trading from Al Brooks and Tom Hougaard**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samthesimpsons&layout=compact)](https://github.com/Samthesimpsons/github-readme-stats)
 
