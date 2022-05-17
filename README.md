@@ -8,7 +8,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samthesimpsons&layout=compact)](https://github.com/Samthesimpsons/github-readme-stats)
 
-<h3 align="left">Check out my wix website portfolio:</h3>
-<p align = "left">
-<a href="https://simweixuansamuel.wixsite.com/portfolio"><img align="center" src="https://img.shields.io/badge/-Portfolio-green" alt="samuel-sim" /></a>
-
