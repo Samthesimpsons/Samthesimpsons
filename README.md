@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Samuel Sim!</h1>
+<h3 align="center">I am interested in anything Data Science, and I am peeping into the world of ML Ops!</h3>
 
-<!--
-**Samthesimpsons/Samthesimpsons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **ML DevOps and Python for DevOps by Noah Gift**
+- 💬 Ask me about anything **Data Science/Data Analytics**
+- 📫 Reach me at **samuelsimweixuan@gmail.com**
+- 🚀 Fun hobby include learning about **Day-Trading from AL Brooks and Tom Hougaard**
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samthesimpsons&layout=compact)](https://github.com/Samthesimpsons/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Check out my wix website portfolio:</h3>
+<p align = "left">
+<a href="https://simweixuansamuel.wixsite.com/portfolio"><img align="center" src="https://img.shields.io/badge/-Portfolio-green" alt="samuel-sim" /></a>
+
