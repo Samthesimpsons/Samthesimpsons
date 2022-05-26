@@ -6,5 +6,7 @@
 - 📫 Reach me at **samuelsimweixuan@gmail.com**
 - 🚀 Fun hobby include learning about **Day-Trading from Al Brooks and Tom Hougaard**
 
+Still in the process of uploading more of my projects!
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samthesimpsons&layout=compact)](https://github.com/Samthesimpsons/github-readme-stats)
 
