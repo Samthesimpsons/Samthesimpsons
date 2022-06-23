@@ -11,7 +11,6 @@ Still in the process of uploading more of my projects!
 - Kaggle Twitter Sentiment Analysis Challenge
 - NLP Blog post
 - Capstone Image Dectection Project 
-- Wordle Reinforcement Learning Project
 - Gametheory Project
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samthesimpsons&layout=compact)](https://github.com/Samthesimpsons/github-readme-stats)
