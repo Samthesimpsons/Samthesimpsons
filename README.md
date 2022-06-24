@@ -8,7 +8,6 @@
 - 💯 I plan to read up on **ML DevOps and Python for DevOps by Noah Gift**
 
 Still in the process of uploading more of my projects!
-- Kaggle Twitter Sentiment Analysis Challenge
 - NLP Blog post
 - Capstone Image Dectection Project 
 - Game Theory Project
