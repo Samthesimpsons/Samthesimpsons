@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Samuel Sim!</h1>
-<h3 align="center">I am interested in anything Data Science, Analytics and Machine learning!</h3>
+<h3 align="center">I am interested in anything Data Science, Analytics, Machine learning and Software Development!</h3>
 
 - 🌱 I’m currently working on Knowledge bases and LLM applications in a bank!
-- 💬 Ask me about anything **Data Science/Data Analytics**
 - 📫 Reach me at **samuelsimweixuan@gmail.com**
 - 🚀 Fun hobby include learning about **Day-Trading from Al Brooks and Tom Hougaard**
 
