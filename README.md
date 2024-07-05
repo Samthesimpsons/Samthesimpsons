@@ -10,7 +10,7 @@ Currently, I am enrolled for the Master of Science in Computing at SMU, with an 
 
 For my work experience, I am currently a Data Scientist in the banking industry, at DBS Bank. I am looking for any opportunities, preferably in the technology industry. 
 
-Here is a summarized list of projects inside my GitHub:
+<h3 align="center">Summarized list of projects inside my GitHub</h3>
 
 - **Project-Bank-Customer-Classification Public**
   - Maybank - Senior Data Scientist
