@@ -40,4 +40,3 @@ For my work experience, I am currently a Data Scientist in the banking industry,
 There are some projects not listed here, like my Capstone Project. Other items include my various notes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samthesimpsons&layout=compact)](https://github.com/Samthesimpsons/github-readme-stats)
-
